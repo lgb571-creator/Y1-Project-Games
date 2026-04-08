@@ -1,2 +1,3 @@
 # Y1-Project-Games
-The C code for a google dino game inspired creation. It contain a main menu with game selection, with 2 options to pick from: a bunn game that jumps oncoming hurdles; and a car game that switches lanes to dodge oncoming obstacles.
+The ZIP file contains the kiel studio .tar file that can be used to view th C code for the menu and games.
+And the .bin file contains the upload for the nucleo board so u can upload it straight away (with the LCD and pins already connected).
